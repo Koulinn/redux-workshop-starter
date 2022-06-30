@@ -1,18 +1,8 @@
 {
   "todos": [
     {
-      "id": "123abc",
-      "text": "Here's a todo from the server",
-      "status": "incomplete"
-    },
-    {
-      "id": "123abc65566",
-      "text": "Here's another todo from the server",
-      "status": "complete"
-    },
-    {
-      "id": "c0286843-81e0-44c8-a99a-c569eba77e0d",
-      "text": "Feed the dog",
+      "id": "94ebd926-50d4-4908-bcae-4cd92ca8e550",
+      "text": "Feed gustav",
       "status": "incomplete"
     }
   ]
