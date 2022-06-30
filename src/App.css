@@ -91,6 +91,7 @@ button.delete {
   background-color: #282c34;
   color: #fff;
   flex-shrink: 0;
+  text-align: center;
 }
 .todo p {
   font-size: 1.5rem;
