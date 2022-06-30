@@ -29,7 +29,7 @@ function App() {
 				<h1>Stuff to Do</h1>
 			</header>
 			<AddTodo addNewTodo={addNewTodo} />
-			<TodoContainer deleteTodo={deleteTodo} setTodoStatus={setTodoStatus} todos={todos} />
+			<TodoContainer />
 		</div>
 	);
 }

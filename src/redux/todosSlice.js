@@ -44,7 +44,10 @@ export const addTodo = createAsyncThunk('todos/addTodo', async ({id, text, statu
 
 const todosSlice = createSlice({
     name: 'todos',
-    initialState: [],
+    initialState: [
+        {id: '1', text: 'Todo one', status: 'incomplete'},
+        {id: '2', text: 'Todo one', status: 'incomplete'}
+    ],
     reducers: {
         todoAdded(state, action) {
             // Remember, state at this level is an array of todos!
